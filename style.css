@@ -1,0 +1,23 @@
+.header{
+    text-align: center;
+}
+
+body{
+    background-color: #f1f1f1 ;
+}
+.konten{
+    width: 70%;
+    float: left;
+}
+
+.navbar{
+    background-color: orange;
+}
+
+.sidebar{
+    float: right;
+}
+
+.card-text{
+    text-align: justify;
+}
